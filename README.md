@@ -2,7 +2,7 @@
 
 # Hey, I'm Vinicius Ribeiro.
 
-<p>I'm a Senior Software Engineer currently working at <span style="color: #ea1d2c">iFood</span>.</p>
+<p>I'm a Senior Software Engineer currently working at Nubank.
 
 #### Get in touch
 

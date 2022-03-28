@@ -2,7 +2,7 @@
 
 # Hey, I'm Vinicius Ribeiro.
 
-<p>I'm a Senior Software Engineer currently working at Nubank.
+<p>I'm a Senior Software Engineer currently working at Loft.
 
 #### Get in touch
 

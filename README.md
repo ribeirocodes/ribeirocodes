@@ -6,5 +6,5 @@
 
 #### Get in touch
 
-- [hello@vncsrbro.com](mailto:hi@ribeiro.codes)
+- [hi@ribeiro.codes](mailto:hi@ribeiro.codes)
 - [linkedin.com/in/ribeirocodes](https://www.linkedin.com/in/ribeirocodes/)

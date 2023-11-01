@@ -2,7 +2,7 @@
 
 # Hey, I'm Vinicius Ribeiro.
 
-<p>I'm a Senior Software Engineer currently working at Loft.
+<p>I use code to solve real user problems and create high-level software solutions.</p>
 
 #### Get in touch
 

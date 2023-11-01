@@ -1,5 +1,3 @@
-<img src="./images/rainbow.png" alt="Colored line representing the Pride Flag "/>
-
 # Hey, I'm Vinicius Ribeiro.
 
 <p>I use code to solve real user problems and create high-level software solutions.</p>
